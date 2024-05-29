@@ -1,6 +1,6 @@
 # QR-Code-Generator
 
-  ![link](https://harsh-kumar16.github.io/QR-Code-Generator/)
+  [GitHub Pages](https://harsh-kumar16.github.io/QR-Code-Generator/)
 
   Website Link.
 
